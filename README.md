@@ -1,6 +1,6 @@
 # The Passenger Archive
 
-**The Passenger Archive** is a tool designed to help you curate your **personal music collection and ratings**, leveraging the vast MusicBrainz database for comprehensive metadata.
+**The Passenger Archive** is a tool designed to help you curate your **personal music collection and ratings**, leveraging the vast [MusicBrainz](https://musicbrainz.org/) database for comprehensive metadata.
 
 Primarily a command-line tool for use within the Python interpreter, it aims to let you:
 
